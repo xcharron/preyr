@@ -17,7 +17,7 @@ PREYR is live on both stores. This repository is a public showcase; the source i
 
 ## How it was built
 
-Built from a blank repository and shipped in four months, by one person directing teams of AI coding agents in parallel: iOS, Android, server, web and marketing site as separate lanes, with written runbooks, issue tracking, staging and production environments, and testing on real phones before anything ships.
+Built from a blank repository and shipped in four months, by one person directing teams of AI coding agents in parallel: iOS, Android, server, web and marketing site as separate lanes, with written runbooks, issue tracking, staging and production environments, and testing on real phones before anything ships: an iPhone 15 Pro Max, a Pixel 8 Pro and a Samsung A35. 81 builds through the stores since May 2026.
 
 Stack: React Native, Python (FastAPI), Postgres, Railway, Cloudflare, RevenueCat, Stripe.
 
